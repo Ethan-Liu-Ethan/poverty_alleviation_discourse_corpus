@@ -28,7 +28,7 @@ This repository contains the research corpus for:
 ## Corpus Information
 
 - **Source**: The New York Times
-- **Period**: November 1, 2013 - December 31, 2023
+- **Period**: November 3, 2013 - December 31, 2023
 - **Articles**: 254
 - **Database**: LexisNexis
 
