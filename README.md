@@ -10,7 +10,7 @@ This repository contains the research corpus for:
 
 ## Repository Structure
 
-- **2013/** - Articles from Nov 1 - Dec 31, 2013
+- **2013/** - Articles from Nov 3 - Dec 31, 2013
 - **2014/** - Articles from 2014
 - **2015/** - Articles from 2015
 - **2016/** - Articles from 2016
