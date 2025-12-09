@@ -11,7 +11,7 @@ Source: The New York Times
 Period: November 3, 2013 - December 31, 2023
 Search Strategy: See Appendix 1 for complete search terms
 
-Initial screening was conducted to exclude obviously irrelevant articles (e.g., articles with only passing mentions). This resulted in 326 articles identified for systematic dual-reviewer screening.
+Initial screening was conducted to exclude obviously irrelevant articles (e.g., articles with only passing mentions). This resulted in 296 articles identified for systematic dual-reviewer screening.
 
 
 ===========================================
@@ -57,6 +57,7 @@ DATA PROCESSING
 - Converted to plain text (.txt) files
 - Organized by publication year (2013-2023)
 - Each file named by article headline
+
 
 
 
