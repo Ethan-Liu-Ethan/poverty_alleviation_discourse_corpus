@@ -38,7 +38,7 @@ SCREENING PROCESS
 ===========================================
 
 Step 1: Independent Screening
-Two independent reviewers screened all 326 articles using the above criteria. Each reviewer independently made inclusion/exclusion decisions.
+Two independent reviewers screened all 296 articles using the above criteria. Each reviewer independently made inclusion/exclusion decisions.
 
 Step 2: Reliability Assessment
 The two sets of independent decisions were compared. Cohen's kappa coefficient was calculated: κ = 0.94 (excellent agreement)
@@ -57,6 +57,7 @@ DATA PROCESSING
 - Converted to plain text (.txt) files
 - Organized by publication year (2013-2023)
 - Each file named by article headline
+
 
 
 
