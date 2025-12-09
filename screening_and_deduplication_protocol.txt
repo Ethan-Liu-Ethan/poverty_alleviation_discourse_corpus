@@ -1,0 +1,63 @@
+Article Screening and Deduplication Protocol
+
+Research Project: Media Frames of China's Poverty Alleviation: The Case of The New York Times
+
+===========================================
+SEARCH PARAMETERS
+===========================================
+
+Database: LexisNexis
+Source: The New York Times
+Period: November 3, 2013 - December 31, 2023
+Search Strategy: See Appendix 1 for complete search terms
+
+
+===========================================
+INCLUSION CRITERIA
+===========================================
+
+✓ News articles with substantive discussion of China's poverty alleviation policies, programs, or outcomes
+✓ Published within the specified time period
+
+
+===========================================
+EXCLUSION CRITERIA
+===========================================
+
+✗ Brief or passing mentions without substantive discussion
+✗ Wire service content (AP, Reuters, etc.)
+✗ Duplicate or republished articles
+✗ Letters to the editor and reader comments
+✗ Opinion pieces and editorials
+
+
+===========================================
+SCREENING PROCESS
+===========================================
+
+Two independent reviewers screened all retrieved articles using the above criteria.
+
+Inter-rater reliability: Cohen's kappa = 0.94
+
+Discrepancies were resolved through discussion until consensus was reached.
+
+Final corpus: 254 unique news articles (384,553 tokens)
+
+
+===========================================
+DATA PROCESSING
+===========================================
+
+- Articles exported from LexisNexis in Word format
+- Converted to plain text (.txt) files
+- Organized by publication year (2013-2023)
+- Each file named by article headline
+
+
+
+
+
+
+
+
+
